@@ -6,20 +6,20 @@ Information pursuant to § 5 of the German Telemedia Act (TMG) and applicable Ap
 
 ## Provider of the App
 
-**Melih Özt**
-[Street Address]
-[Postal Code, City]
-[Country]
+**Melih Ramazan Öztürk**
+Karl-Zurlo-Str.11
+40885 Ratingen
+Germany
 
 ## Contact
 
-**Email:** clashmozt@gmail.com
+**Email:** iscoresport@gmail.com
 
 ## Responsible for content
 
 Pursuant to § 18 (2) of the German Interstate Media Treaty (MStV):
 
-**Melih Özt**
+**Melih Ramazan Öztürk**
 (Address as above)
 
 ---
@@ -27,9 +27,8 @@ Pursuant to § 18 (2) of the German Interstate Media Treaty (MStV):
 ## App information
 
 **App name:** MindTrack
-**Bundle identifier:** com.mozt.mindtrack
 **Platform:** iOS (Apple App Store)
-**Developer / Apple Account holder:** Melih Özt
+**Developer / Apple Account holder:** Melih Ramazan Öztürk
 
 ---
 
@@ -65,4 +64,4 @@ Insofar as the content on these pages and within the App was not created by the 
 
 MindTrack is built with open-source software, including but not limited to React Native, Expo, Drizzle ORM, and SQLite. Trademarks and product names referenced are the property of their respective owners.
 
-App icon and visual design © Melih Özt. All rights reserved.
+App icon and visual design © Melih Ramazan Öztürk. All rights reserved.
